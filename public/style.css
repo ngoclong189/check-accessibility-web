@@ -1,0 +1,17 @@
+.loader{
+    display: none;
+}
+
+#success{
+    color: green;
+    font-size: larger;
+}
+p{
+    font-weight: 500;
+}
+
+span{
+    font-size: 25px;
+    font-style: bold;
+    text-decoration: underline;
+}
